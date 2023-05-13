@@ -1,3 +1,4 @@
+![Flight distances - Data analysis](plane.jpg)
 # Flight-distances-Data-Analysis
 
 One of our large global financial clients spends millions of dollars a year on air travel. They believe that some of their contracted airlines are intentionally extending their quoted mileage for routes to lower the results of their cost-per-mile KPI, resulting in them appearing cheaper than the competition. Our company have therefore been tasked to track the point-to-point mileage between their top destinations and compare it to the mileage given by the carriers.
